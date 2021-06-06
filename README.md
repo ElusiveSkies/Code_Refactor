@@ -1,7 +1,15 @@
 # Code_Refractor
 First homework assignment
-Combined CSS codes when available.
+
+Added title.
+Combined CSS codes where reasonable.
 Removed coding that was overruled by more specific sections (i.e. classes).
+
+Edited CSS code in sequential order.
+Fixed link that did not move to desired section.
+Added Alt descriptions for images.
+
+Added notes in CSS file.
 
 Expected Presentation:
 
