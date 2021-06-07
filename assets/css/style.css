@@ -15,7 +15,6 @@ body {
 }
 
 /*Consolidated h1 sections*/
-
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,7 +25,6 @@ h1 {
 }
 
 /*Consolidated header sections*/
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -61,8 +59,7 @@ a {
     margin-left: 20px;
 }
 
-/*Consolidated Benefit style sections*/
-
+/*Consolidated Benefit style sections in a single class*/
 .sub-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -89,8 +86,6 @@ p {
     max-height: 200px;
 }
 
-/*Consolidated Benefit style sections*/
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -103,8 +98,7 @@ p {
     color: #ffffff;
 }
 
-/*Consolidated Benefit images*/
-
+/*Consolidated Benefit images in a single class*/
 .sub-benefits img {
     margin-bottom: 32px;
     display: block;
@@ -113,7 +107,6 @@ p {
 }
 
 /*Consolidated h3 sections*/
-
 h3 {
     margin-top: 32px;
     margin-bottom: 10px;
@@ -121,7 +114,6 @@ h3 {
 }
 
 /*Consolidated h2 sections*/
-
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
