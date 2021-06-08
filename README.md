@@ -1,5 +1,4 @@
-# Code_Refractor
-First homework assignment
+# Code_Refactor
 
 Added title.
 Combined CSS codes where reasonable.
